@@ -4,7 +4,7 @@
 
 The [HONC stack](https://honc.dev/) - an acronym for **H**ono, **O**RM (Drizzle), **N**eon, and **C**loudflare - is a modern toolkit for building lightweight, type-safe, and edge-enabled data APIs.
 
-This repository accompanies the guide [**Getting Started with the HONC Stack**](http://neon.tech/guides/honc). It provides a practical example of how to integrate [Hono](https://hono.dev/) (a small, simple, and ultrafast web framework), [Drizzle ORM](https://orm.drizzle.team/) (a TypeScript ORM), [Neon](https://neon.tech/) (a serverless Postgres platform), and [Cloudflare Workers](https://workers.cloudflare.com/) to build efficient edge APIs.
+This repository accompanies the guide [**Getting started with the HONC Stack**](http://neon.tech/guides/honc). It provides a practical example of how to integrate [Hono](https://hono.dev/) (a small, simple, and ultrafast web framework), [Drizzle ORM](https://orm.drizzle.team/) (a TypeScript ORM), [Neon](https://neon.tech/) (a serverless Postgres platform), and [Cloudflare Workers](https://workers.cloudflare.com/) to build efficient edge APIs.
 
 ## 📖 Overview
 
@@ -106,12 +106,12 @@ You can also check your Neon console to see the `tasks` table and any data inser
 
 ## 📚 Resources
 
-*   **HONC Guide:** [Getting Started with the HONC Stack](http://neon.tech/guides/honc)
+*   **HONC Guide:** [Getting started with the HONC Stack](http://neon.tech/guides/honc)
 *   **Honc:** [honc.dev](https://honc.dev/)
 *   **Drizzle ORM:** [orm.drizzle.team](https://orm.drizzle.team/)
 *   **Neon:** [neon.tech/docs](https://neon.tech/docs/)
 *   **Cloudflare Workers:** [developers.cloudflare.com/workers](https://developers.cloudflare.com/workers/)
-*   **Fiberplane API playground for Hono:** [Fiberplane: Your Hono-native API Playground](https://fiberplane.com/blog/hono-native-playground/)
+*   **Fiberplane:** [Fiberplane: Your Hono-native API Playground](https://fiberplane.com/blog/hono-native-playground/)
 *   **`create-honc-app` CLI:** [GitHub](https://github.com/fiberplane/create-honc-app)
 
 ## 🤝 Contributing
